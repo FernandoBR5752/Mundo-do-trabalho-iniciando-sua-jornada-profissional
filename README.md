@@ -1,5 +1,7 @@
 Marcelo Paludetto Rodrigues
+
 (DDD) 11111-1111
+
 Marcelopaludetto@start.com
 Linkedin: @marcelopaludetto
 OBJETIVO
@@ -10,9 +12,11 @@ AluraFlix
 Descrição: projeto inspirado em plataformas de streamings, desenvolvido com as linguagens de HTML e CSS, utilizando conceitos de responsividade e incorporando vídeos do YouTube.   
 Link do repositório: GitHub - alura-cursos/aluraflix at aula8 
 
+
 Escape Room 
 Descrição: projeto inspirado em jogos que possuem diferentes finais, desenvolvido com HTML, CSS e JavaScript. Para além dos conhecimentos em lógica, esse projeto apresenta conhecimentos mais sólidos sobre a linguagem JavaScript. O maior desafio foi organizar a estrutura do código e refatorar para deixar o código limpo.  
 Link do repositório: https://github.com/marcelo-paludetto/criando-sua-aventura 
+
 
 TECNOLOGIAS 
     • HTML 
