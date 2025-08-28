@@ -4,6 +4,7 @@ Marcelo Paludetto Rodrigues
 
 Marcelopaludetto@start.com
 Linkedin: @marcelopaludetto
+
 OBJETIVO
 Sou apaixonado por lógica e programação e tenho desejo de iniciar minha carreira profissional na área de desenvolvimento de software. Iniciei meus estudos desde muito jovem e já criei diversos projetos pessoais com HTML, CSS e JavaScript. Estou aprendendo sempre e me aprofundando em tecnologias para a área de front-end, como React e experiência do usuário.
 
@@ -20,11 +21,17 @@ Link do repositório: https://github.com/marcelo-paludetto/criando-sua-aventura
 
 TECNOLOGIAS 
     • HTML 
+    
     • CSS 
+    
     • JavaScript 
+   
     • Planilhas (Excel) 
+   
     • GitHub 
+   
     • Inteligência Artificial  
+    
     • Lógica de programação
 
 
