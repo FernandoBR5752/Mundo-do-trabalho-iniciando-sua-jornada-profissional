@@ -20,6 +20,7 @@ Link do repositório: https://github.com/marcelo-paludetto/criando-sua-aventura
 
 
 TECNOLOGIAS 
+    
     • HTML 
     
     • CSS 
