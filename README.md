@@ -41,6 +41,7 @@ EXPERIÊNCIA PROFISSIONAL
 Ainda não tive nenhuma
 
 
+
 FORMAÇÃO ACADÊMICA
 Colégio Start – 2ª série do ensino médio (previsão de conclusão em 2026) 
    
